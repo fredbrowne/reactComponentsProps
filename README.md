@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ###########################################################################<br>
-This is a study of React and the use of Components abd Props<br>
+This is a study of React and the use of Components and Props<br>
 Application designed to show how to use Components, how to use Props, how<br>
 to pass Components as Props.<br>
 It also uses Semantic-UI for styling and Faker.JS for content.<br>
